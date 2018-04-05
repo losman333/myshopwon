@@ -48,6 +48,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'frobshop.apps.FrobshopConfig',
     'django.contrib.flatpages',
+    'paypal',
     'storages',
     'compressor',
     'widget_tweaks',
